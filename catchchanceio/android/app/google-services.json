@@ -1,0 +1,184 @@
+{
+  "project_info": {
+    "project_number": "286865432432",
+    "firebase_url": "https://orangestep-a9bff.firebaseio.com",
+    "project_id": "orangestep-a9bff",
+    "storage_bucket": "orangestep-a9bff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286865432432:android:b685df9836856060b9b9b5",
+        "android_client_info": {
+          "package_name": "com.orangestep.catchchance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286865432432-8h0k1ifum588t8jvb2dka501e1cfjp64.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.orangestep.catchchance",
+            "certificate_hash": "0a2408ff0fe0b6b38197029245018b651262bde2"
+          }
+        },
+        {
+          "client_id": "286865432432-bakcmtio36jtee660eg37lhlsgd24107.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.orangestep.catchchance",
+            "certificate_hash": "167aa3da42b27306b75d0692e2447eeced05c0a4"
+          }
+        },
+        {
+          "client_id": "286865432432-s6hj86gkmfjdb5iuloqbgb0lul03purr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.orangestep.catchchance",
+            "certificate_hash": "2ea20f6b78d57f34383c7ab83ae04082af0a90da"
+          }
+        },
+        {
+          "client_id": "286865432432-tvhgbe9t40d3jv5k1oq8tm3702a66jc1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.orangestep.catchchance",
+            "certificate_hash": "b159c1fa4dde069541eca00cad9ad7408191b8fe"
+          }
+        },
+        {
+          "client_id": "286865432432-a8g6ve97kohted0c603ao5qmplglrcu2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVJNlrCn2h91kPa2cUzoVUbJ0qMRC6yoY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286865432432-a8g6ve97kohted0c603ao5qmplglrcu2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "286865432432-03avv5mqeaoa15mfr9k14a6or046h2ls.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.orangestep.catchchance"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-1747473266862389~1165762922"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286865432432:android:85d630ff437bc22bb9b9b5",
+        "android_client_info": {
+          "package_name": "com.orangestep.catchchanceio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286865432432-a8g6ve97kohted0c603ao5qmplglrcu2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVJNlrCn2h91kPa2cUzoVUbJ0qMRC6yoY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286865432432-a8g6ve97kohted0c603ao5qmplglrcu2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "286865432432-03avv5mqeaoa15mfr9k14a6or046h2ls.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.orangestep.catchchance"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286865432432:android:a10c54be94af535cb9b9b5",
+        "android_client_info": {
+          "package_name": "com.orangestep.pickstargrab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286865432432-6csscqobj4nqmc2hf1lhudka6u4tag7e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.orangestep.pickstargrab",
+            "certificate_hash": "81fa9388e71ab9c67f0eda2a89ea71ea53494988"
+          }
+        },
+        {
+          "client_id": "286865432432-7f1fo6lqn53nfvgdugmq96j2i00jtd4j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.orangestep.pickstargrab",
+            "certificate_hash": "0a2408ff0fe0b6b38197029245018b651262bde2"
+          }
+        },
+        {
+          "client_id": "286865432432-ah4dlr8h5apdvb5s181dtuktf8rsdekg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.orangestep.pickstargrab",
+            "certificate_hash": "2ea20f6b78d57f34383c7ab83ae04082af0a90da"
+          }
+        },
+        {
+          "client_id": "286865432432-qfg7ohd8jccu8brs04eg77pse9lu1l5c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.orangestep.pickstargrab",
+            "certificate_hash": "dbc0bf91c40d8bc675a0535a74e51150b0b49e25"
+          }
+        },
+        {
+          "client_id": "286865432432-a8g6ve97kohted0c603ao5qmplglrcu2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVJNlrCn2h91kPa2cUzoVUbJ0qMRC6yoY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286865432432-a8g6ve97kohted0c603ao5qmplglrcu2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "286865432432-03avv5mqeaoa15mfr9k14a6or046h2ls.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.orangestep.catchchance"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

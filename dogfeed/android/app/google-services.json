@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "359674893619",
+    "project_id": "dogfeed-ed982",
+    "storage_bucket": "dogfeed-ed982.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359674893619:android:b428a105b5152cf87d9a46",
+        "android_client_info": {
+          "package_name": "com.orangestep.dogfeed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "359674893619-mmqbroainv87uma8tfrldcjrl6tkie9r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.orangestep.dogfeed",
+            "certificate_hash": "2ea20f6b78d57f34383c7ab83ae04082af0a90da"
+          }
+        },
+        {
+          "client_id": "359674893619-fhsu51bec2nholqu2bf6385v3gbs1in2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw5cgD-QV4R1s0SzQEhHE3QhELaWXlGFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "359674893619-fhsu51bec2nholqu2bf6385v3gbs1in2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
